@@ -7,7 +7,7 @@
 // Good luck!
 
 List<String> capitalize(String x) {
-  // your code here
+  List<String> finalList = [];
 
   return [];
 }
